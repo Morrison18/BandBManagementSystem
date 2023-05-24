@@ -4,6 +4,8 @@
 
 
 ## Tasks
+
+* create wire frame for database
 * create rational database
 * create simple site
 * connect database to a site
