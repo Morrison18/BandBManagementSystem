@@ -16,7 +16,7 @@
 
 ![Screenshot 2023-05-24 at 7 47 30 p m](https://github.com/Morrison18/BandBManagementSystem/assets/35890626/64a6ac40-06c2-491d-b447-cfcbce8ee5d0)
 
-## later tasks 
+## Other tasks 
 
 * Create password protect for passwords
 * Set up database on cloud service and reconnect
